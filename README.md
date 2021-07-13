@@ -6,7 +6,7 @@ After that, I started going to University of the People with a major in CS!!
 I had been working full-time internship at veho works in Vietnam as a Front-End Software Developer and designed and developed 5+ apps.
 I am currently learning Java and Node.js, and looking for a job as a Back-End Software Developer.
 
-Outside of that, I like doing workout, reading books, and talking with my friends.
+Outside of that, I like doing workouts, reading books, and talking with my friends.
 
 # Other Activities:
 - I opned [the gym in Vietnam.](https://www.vehofitness.com)
