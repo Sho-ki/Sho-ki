@@ -14,7 +14,7 @@ Outside of that, I like doing workouts, reading books, and talking with my frien
 
 
 ## Contect
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Sho-ki/my-portfolio/blob/main/public/resume.pdf)
 - :email: shoki0116.highjump@gmail.com
 
 
