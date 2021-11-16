@@ -1,6 +1,6 @@
 # Hi There 👋 A Litte Bit About Me:
 
-My name is Shoki Ishii. I was born and raised in Nara, Japan. I graduated from Doshisha University with a major in English Education.
+My name is Shoki Ishii. I was born and raised in Japan. I graduated from Doshisha University with a major in English Education.
 After that, I started going to University of the People with a major in CS!!
 
 I had been working full-time internship at veho works in Vietnam as a Front-End Software Developer and designed and developed 5+ apps.
@@ -10,7 +10,7 @@ Outside of that, I like doing workouts, reading books, and talking with my frien
 
 ## Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-001baa?style=for-the-badge&labelColor=black&logo=SQL&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=white)
 
 
 ## Contect
