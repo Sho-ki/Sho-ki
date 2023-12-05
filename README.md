@@ -18,15 +18,5 @@ Outside of that, I like working out and sushi.
 
 
 
-## Other Activities:
-- I opned [the gym in Vietnam.](https://www.vehofitness.com)
-As a manager, I considered some services.
-
-
-- I held [a large sports event](https://www.jbav-ekiden.com/9) that more than 2000 people participated in.
-As a top director, I managed more than 60 companies, 100 volunteer people, and 1500 participants.
-
-
-
 
 
