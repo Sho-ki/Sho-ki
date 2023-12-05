@@ -1,12 +1,7 @@
 # Hi There 👋 A Litte Bit About Me:
 
-My name is Shoki Ishii. I was born and raised in Japan. I graduated from Doshisha University with a degree in English Education.
-I am currently attending the University of the People and working towards a Bachelor's degree in Computer Science.
-
-At the same time, I am working as a software developer at Teatis Inc. in Seattle, WA.
+I am working as a software developer at Teatis Inc. in Seattle, WA.
 I enjoy coding in Typescript, both front-end and server-side.
-
-Outside of that, I like working out and sushi.
 
 ## Top Technologies
 
